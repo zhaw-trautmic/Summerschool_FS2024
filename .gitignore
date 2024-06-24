@@ -11,4 +11,4 @@ wifi_access.txt
 *.pptx
 
 # Ignore credentials.json
-credentials.json
+/Trading_Bot/credentials.json
