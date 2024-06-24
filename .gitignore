@@ -10,3 +10,5 @@ wifi_access.txt
 # Ignore .pptx files
 *.pptx
 
+# Ignore .db files
+*.db
