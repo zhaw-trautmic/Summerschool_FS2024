@@ -14,5 +14,5 @@ wifi_access.txt
 *.db
 
 # Ignore results .ipynb files
-agent_based_model_credit_risk.ipynb
-trading_bot.ipynb
+Agent_Based_Credit_Risk_Modeling/agent_based_model_credit_risk.ipynb
+Trading_Bot/trading_bot.ipynb
