@@ -1,0 +1,11 @@
+# Ignore archive files
+/00_Archive
+
+# Ignore wifi access information
+wifi_access.txt
+
+# Ignore .docx files
+*.docx
+
+# Ignore .pptx files
+*.pptx
