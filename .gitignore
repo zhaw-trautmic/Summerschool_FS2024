@@ -12,3 +12,7 @@ wifi_access.txt
 
 # Ignore .db files
 *.db
+
+# Ignore results .ipynb files
+agent_based_model_credit_risk.ipynb
+trading_bot.ipynb
