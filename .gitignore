@@ -19,3 +19,6 @@ Trading_Bot/trading_bot.ipynb
 
 # Ignore credentials
 # Trading_Bot/credentials.json
+
+# Ignore participants.xlsx
+participants.xlsx
